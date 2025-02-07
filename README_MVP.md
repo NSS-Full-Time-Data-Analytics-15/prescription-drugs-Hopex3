@@ -10,7 +10,7 @@ There is duplication in the drugs table.  Run 'SELECT COUNT(drug_name) FROM drug
 
     b. Repeat the above, but this time report the nppes_provider_first_name, nppes_provider_last_org_name,  specialty_description, and the total number of claims.
 
-2.
+2..
     a. Which specialty had the most total number of claims (totaled over all drugs)?
 
     b. Which specialty had the most total number of claims for opioids?
